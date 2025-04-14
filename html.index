@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shaa Zyra | Astronomy & Reflections</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0a0a23;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1a1a40;
+      padding: 30px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #1e1e2f;
+      border-radius: 10px;
+    }
+    h2 {
+      color: #6db3f2;
+    }
+    a {
+      color: #ffc857;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #1a1a40;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Shaa Zyra</h1>
+    <p>Writer | Researcher | Astrophotographer | Musician</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      Shaa Zyra, also known as Sharifah Nazirah binti Syed Mahedhal Al-Qadri, is a writer, independent researcher, astrophotographer, and musician who explores the universe through reflections, visuals, and sound. Her work blends science, spirituality, and art in a way that is accessible and thought-provoking.
+    </p>
+  </section>
+
+  <section>
+    <h2>My Research</h2>
+    <ul>
+      <li>
+        <strong>eBook:</strong>
+        <a href="https://drive.google.com/file/d/1noptAe8nYpT3fbzrWVq_rCflDKeTTWNf/view?usp=drivesdk" target="_blank">
+          Langit Itu Bicara (Versi Sempoi)
+        </a>
+      </li>
+      <li>
+        <strong>Coming Soon:</strong> Astronomy in the Qur'an – A deep dive into the signs in the sky and divine knowledge.
+      </li>
+      <li>
+        <strong>VR/AR Project:</strong> Virtual Tour to TNB – A fusion of energy, innovation, and immersive learning.
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact & Social</h2>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/Shaazyra" target="_blank">Shaazyra</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Shaa Zyra. All rights reserved.
+  </footer>
+
+</body>
+</html>
